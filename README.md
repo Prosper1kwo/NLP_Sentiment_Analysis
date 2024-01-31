@@ -1,1 +1,1 @@
-# My python project for my CSCI class
+# My NLP Project on Sentiment Analysis For Senior Seminar
