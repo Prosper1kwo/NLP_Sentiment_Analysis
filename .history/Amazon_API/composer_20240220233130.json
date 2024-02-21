@@ -1,0 +1,13 @@
+{
+    "require": {
+      "guzzlehttp/guzzle": "~6.0",
+      "twig/twig": "^1.24",
+      "vlucas/phpdotenv": "^2.2",
+      "respect/validation": "^1.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Lib\\": "lib"
+      }
+    }
+}
